@@ -63,8 +63,8 @@ msgstr ""
 "Das pdb-Modul ist ein einfacher, aber zweckmäßiger Debugger für Python im "
 "Konsolenmodus. Es ist Teil der Python-Standardbibliothek und wird :mod:`im "
 "Library Reference Manual unter <pdb>` dokumentiert. Du kannst auch einen "
-"eigenen Debugger schreiben, indem Sie den Code von pdb als Vorlage "
-"verwenden."
+"eigenen Debugger schreiben, indem du den Code von pdb als Vorlage "
+"verwendest."
 
 #: ../../faq/programming.rst:27
 msgid ""
@@ -532,7 +532,7 @@ msgid ""
 msgstr ""
 "Die gängige Methode, um Informationen zwischen Modulen innerhalb eines "
 "einzelnen Programms auszutauschen, besteht darin, ein spezielles Modul (oft "
-"als \"config\" oder \"cfg\" bezeichnet) zu erstellen. Importieren Sie das "
+"als \"config\" oder \"cfg\" bezeichnet) zu erstellen. Importiere das "
 "config\"-Modul einfach in alle Module Ihrer Anwendung; das Modul steht dann "
 "als globaler Name zur Verfügung. Da es von jedem Modul nur eine Instanz "
 "gibt, werden alle am Modulobjekt vorgenommenen Änderungen überall "
@@ -1222,7 +1222,7 @@ msgstr ""
 
 #: ../../faq/programming.rst:555
 msgid "Or bundle up values in a class instance::"
-msgstr "Oder fassen Sie Werte in einer Klasseninstanz zusammen::"
+msgstr "Oder fasse Werte in einer Klasseninstanz zusammen::"
 
 #: ../../faq/programming.rst:557
 msgid ""
@@ -1773,7 +1773,7 @@ msgid ""
 "octal value \"10\" (8 in decimal), type::"
 msgstr ""
 "Um eine Oktalziffer anzugeben, setze eine Null vor den Oktalwert und "
-"fügen Sie anschließend ein kleines oder großes \"o\" hinzu. Um beispielsweise "
+"füge anschließend ein kleines oder großes \"o\" hinzu. Um beispielsweise "
 "die Variable \"a\" auf den Oktalwert \"10\" (8 im Dezimalsystem) zu setzen, "
 "gebe Folgendes ein::"
 
@@ -4042,8 +4042,8 @@ msgid ""
 msgstr ""
 "Die beiden IDs gehören zu verschiedenen Integer-Objekten, die vor der "
 "Ausführung des Aufrufs von ``id()`` erstellt und unmittelbar danach "
-"gelöscht werden. Um sicherzustellen, dass die Objekte, deren ID Sie "
-"überprüfen möchten, noch vorhanden sind, erstellen Sie eine weitere Referenz"
+"gelöscht werden. Um sicherzustellen, dass die Objekte, deren ID du "
+"überprüfen möchtest, noch vorhanden sind, erstelle eine weitere Referenz"
 " auf das Objekt:"
 
 #: ../../faq/programming.rst:1864
@@ -4555,7 +4555,7 @@ msgstr ""
 "``.py`` enthält.  Der Dateiname der Datei ``.pyc`` beginnt mit "
 "demselben Namen wie die Datei ``.py`` und endet mit ``.pyc``, wobei "
 "der mittlere Teil von der jeweiligen Binärdatei ``python`` abhängt, mit "
-"der sie erstellt wurde. (Weitere Informationen finden Sie unter "
+"der sie erstellt wurde. (Weitere Informationen findest du unter "
 ":pep:`3147`.)"
 
 #: ../../faq/programming.rst:2096
